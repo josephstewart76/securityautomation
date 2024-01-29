@@ -21,5 +21,5 @@ end
 
 # Example: Check integrity of /etc/passwd file
 check_file_integrity('/etc/passwd', 
-'45e1a370269afcf6bb11ab188ecc193814b9d27a54c75cf0e4f26a0ec869a732')
+'expected_hash_value')
 
